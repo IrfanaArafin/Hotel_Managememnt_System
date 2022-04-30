@@ -506,6 +506,10 @@ if(!isset($_SESSION["user"]))
 														{
 															$type_of_room = 150;
 														}
+														else if($troom=="Luxury Room")
+														{
+															$type_of_room = 220;
+														}
 														
 														
 														

@@ -9,7 +9,7 @@ body {
   margin: 0;
   font-size: 100%;
   font-family: "Lato", sans-serif;
-  background: #fff;
+  background: #fbeaea;
 }
 body a {
   text-decoration: none;
@@ -948,11 +948,11 @@ li.menu__item:nth-child(6) {
 
 .w3_grid_effect {
   padding: 2em;
-  background: rgba(52, 74, 113, 0.09);
+  background: rgba(52,74, 113, 0.09);
 }
 
 /* anchor style */
-.cbp-ig-grid li > a {
+.cbp-ig-grid li > a {background: url(../images/contact.jpg) no-repeat;
   display: block;
   height: 100%;
   color: #47a3da;
@@ -1322,7 +1322,7 @@ ul.resp-tabs-list {
   margin-right: 5px;
 }
 .price-gd-bottom {
-  background: #fff;
+  background: #BC8F8F;
   text-align: center;
   padding: 1.8em 0em 1em;
 }
@@ -1564,7 +1564,7 @@ section.contact-w3ls p.contact-agile1 a {
 }
 section.contact-w3ls .contact-agileits,
 .contact-w3-agile1 {
-  background-color: rgba(0, 0, 0, 0.55);
+  background-color: rgba(146, 117, 105, 0.564);
   padding: 20px 35px;
 }
 section.contact-w3ls h4 {
